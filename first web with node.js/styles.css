@@ -1,0 +1,28 @@
+.mydiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    background-color: hsl(0, 0%, 80%);
+    padding: 25px;
+    margin-left: 38%;
+    margin-right: 38%;
+    box-shadow: 3px 3px 3px grey;
+}
+button{
+    margin-top: 3%;
+    width: 100px;
+}
+.h4content{
+    margin-top: 5%;
+    background-color: aliceblue;
+    font-family: verdana;
+    font-weight: bold;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
